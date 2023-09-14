@@ -1,3 +1,4 @@
-node_modules/
 C/out
 go/timer
+rust/target
+node_modules/
